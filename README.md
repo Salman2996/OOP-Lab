@@ -1,2 +1,2 @@
 # OOP-Lab
-Object Oreiented Programming Lab for MSRIT
+Object Oriented Programming Lab for MSRIT
